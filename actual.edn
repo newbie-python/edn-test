@@ -1,0 +1,171 @@
+{:org
+ [
+  {:name "ksub_group_pi1",
+   :desc "ksub_group_pi1",
+   :Test-Attributes
+   {:Test-Capability
+    [{:Test-Release "K2",
+      :Test-Accounting-Capabilities 1,
+      :Test-Hotlining-Capabilities 1,
+      :Test-Idle-Mode-Notification-Cap 0}],
+     :Inventory-nums
+    [{:aname 60419, :bname 60419, :cname 60419}
+     {:aname 60420, :bname 60420, :cname 60420}
+     {:aname 60421, :bname 60421, :cname 60421}
+     {:aname 60422, :bname 60422, :cname 60422}
+     {:aname 60423, :bname 60423, :cname 60423}
+     {:aname 60424, :bname 60424, :cname 60424}
+     {:aname 60425, :bname 60425, :cname 60425}
+     {:aname 60426, :bname 60426, :cname 60426}
+     {:aname 60427, :bname 60427, :cname 60427}
+     {:aname 60428, :bname 60428, :cname 60428}]},
+   :Flow-Attributes {:Flow-Service-Tier "ksub_group_ pi1"}
+   :option43Entries []
+    :index [8 16 17 18]}
+
+  {:name "ksub_group_ pi2",
+   :desc "ksub_group_ pi2",
+   :Test-Attributes
+   {:Test-Capability
+    [{:Test-Release "K2",
+      :Test-Accounting-Capabilities 1,
+      :Test-Hotlining-Capabilities 1,
+      :Test-Idle-Mode-Notification-Cap 0}],
+     :Inventory-nums
+    [{:aname 60419, :bname 60419, :cname 60419}
+     {:aname 60420, :bname 60420, :cname 60420}
+     {:aname 60429, :bname 60429, :cname 60429}
+     {:aname 60430, :bname 60430, :cname 60430}
+     {:aname 60431, :bname 60431, :cname 60431}
+     {:aname 60432, :bname 60432, :cname 60432}
+     {:aname 60433, :bname 60433, :cname 60433}
+     {:aname 60434, :bname 60434, :cname 60434}
+     {:aname 60435, :bname 60435, :cname 60435}
+     {:aname 60436, :bname 60436, :cname 60436}]},
+   :Flow-Attributes {:Flow-Service-Tier "ksub_group_ pi2"}
+   :option43Entries []
+    :index [8 16 17 18]}
+
+  {:name "ksub_group_ pi3",
+   :desc "ksub_group_ pi3",
+   :Test-Attributes
+   {:Test-Capability
+    [{:Test-Release "K2",
+      :Test-Accounting-Capabilities 1,
+      :Test-Hotlining-Capabilities 1,
+      :Test-Idle-Mode-Notification-Cap 0}],
+     :Inventory-nums
+    [{:aname 60419, :bname 60419, :cname 60419}
+     {:aname 60420, :bname 60420, :cname 60420}
+     {:aname 60437, :bname 60437, :cname 60437}
+     {:aname 60438, :bname 60438, :cname 60438}
+     {:aname 60439, :bname 60439, :cname 60439}
+     {:aname 60440, :bname 60440, :cname 60440}
+     {:aname 60441, :bname 60441, :cname 60441}
+     {:aname 60442, :bname 60442, :cname 60442}
+     {:aname 60443, :bname 60443, :cname 60443}
+     {:aname 60444, :bname 60444, :cname 60444}]},
+   :Flow-Attributes {:Flow-Service-Tier "ksub_group_ pi3"}
+   :option43Entries []
+    :index [8 16 17 18]}
+
+{:name "ksub_group_ pi4",
+   :desc "ksub_group_ pi4",
+   :Test-Attributes
+   {:Test-Capability
+    [{:Test-Release "K2",
+      :Test-Accounting-Capabilities 1,
+      :Test-Hotlining-Capabilities 1,
+      :Test-Idle-Mode-Notification-Cap 0}],
+     :Inventory-nums
+    [{:aname 60419, :bname 60419, :cname 60419}
+     {:aname 60420, :bname 60420, :cname 60420}
+     {:aname 60429, :bname 60429, :cname 60429}
+     {:aname 60430, :bname 60430, :cname 60430}
+     {:aname 60431, :bname 60431, :cname 60431}
+     {:aname 60432, :bname 60432, :cname 60432}
+     {:aname 60433, :bname 60433, :cname 60433}
+     {:aname 60434, :bname 60434, :cname 60434}
+     {:aname 60435, :bname 60435, :cname 60435}
+     {:aname 60436, :bname 60436, :cname 60436}
+     {:aname 60445, :bname 60445, :cname 60445}
+     {:aname 60446, :bname 60446, :cname 60446}
+     {:aname 60447, :bname 60447, :cname 60447}
+     {:aname 60448, :bname 60448, :cname 60448}
+     {:aname 60449, :bname 60449, :cname 60449}
+     {:aname 60450, :bname 60450, :cname 60450}
+     {:aname 60451, :bname 60451, :cname 60451}
+     {:aname 60452, :bname 60452, :cname 60452}]},
+   :Flow-Attributes {:Flow-Service-Tier "ksub_group_ pi4"}
+   :option43Entries []
+    :index [8 16 17 18]}
+
+
+  {:Test-Attributes
+ {:Test-Capability
+  [{:Test-Accounting-Capabilities 1,
+    :Test-Hotlining-Capabilities 1,
+    :Test-Idle-Mode-Notification-Cap 0,
+    :Test-Release "K2"}],
+   :Inventory-nums
+  [{:aname 1704,
+     :bname 1704,
+     :cname 1704}
+   {:aname 1705,
+     :bname 1705,
+     :cname 1705}
+   {:aname 1706,
+     :bname 1706,
+     :cname 1706}
+   {:aname 1707,
+     :bname 1707,
+     :cname 1707}
+   {:aname 1708,
+     :bname 1708,
+     :cname 1708}
+   {:aname 1709,
+     :bname 1709,
+     :cname 1709}
+   {:aname 1710,
+     :bname 1710,
+     :cname 1710}
+   {:aname 1711,
+     :bname 1711,
+     :cname 1711}
+   {:aname 1712,
+     :bname 1712,
+     :cname 1712}
+   {:aname 1713,
+     :bname 1713,
+     :cname 1713}
+   {:aname 1714,
+     :bname 1714,
+     :cname 1714}
+   {:aname 1715,
+     :bname 1715,
+     :cname 1715}
+   {:aname 1716,
+     :bname 1716,
+     :cname 1716}
+   {:aname 997,
+     :bname 997,
+     :cname 997}
+   {:aname 998,
+     :bname 998,
+     :cname 998}
+   {:aname 999,
+     :bname 999,
+     :cname 999}]},
+ :Attributes {:Service-Tier "480P_MX"},
+ :name "Business Unlimited 12 ",
+ :desc "Unlimited 12 ",
+ :option43Entries
+ [{:name "ACS_URL",
+   :code 38,
+   :value
+   "http://genericTR69"}],
+  :index
+ [25 2 51 3 59 5 61 4 60 44 63 43 42 62 1 16 18 17 25 8 54 20] 
+ :ntd {:realm "mx3.res.com"}}
+ ]
+ }
